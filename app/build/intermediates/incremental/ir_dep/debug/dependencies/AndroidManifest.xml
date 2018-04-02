@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="practicaltest01var07.eim.systems.cs.pub.ro.practicaltest01var07"
+      android:versionCode="1"
+      android:versionName="1.0"
+      split="lib_dependencies_apk">
+</manifest>

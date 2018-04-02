@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/4af1e2937b15f4b645eeb093ba214a93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/ab3930b046f6a6be986b4fb390117a23/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/flor/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7bd0a195958195273502dbd4da192b75/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/9c583f71d9dd37e8c8c731f561e2a406/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/cf2696d8f8f596aac89f324b506a4470/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/de84e7c66af8417e53e4a3ba85ec729b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/bbce4fc7cdb09895bc8a9d5a674cabd1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/7528f2a232b119436b99d5f34237da79/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/bb03921735a6374911c5bce237c5dc86/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/48a3d27d8d1d37af6ea9783c41e30705/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/2b91f1eef6928401d6cfa6ac1be1e0c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/e104d31d066820de4f2f080f260612fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/19b3dfa47f355643981a916af1f4f9fc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e738a2e72bc95ab585b1b355d459c0dd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d0c5f132cd201136efd07fec687b2e1d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c2a4bfecf075872fa1e11db4b8de67a8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5ac0f0fa14d532e48df754f13c3257fe/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:3:5-78
+		INJECTED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml
+		INJECTED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml
+		ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml
+		ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:5:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/flor/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7bd0a195958195273502dbd4da192b75/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/flor/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7bd0a195958195273502dbd4da192b75/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:11:9-40
+activity#practicaltest01var07.eim.systems.cs.pub.ro.practicaltest01var07.PracticalTest01Var07MainActivity
+ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:12:19-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:16:27-74
+activity#practicaltest01var07.eim.systems.cs.pub.ro.practicaltest01var07.PracticalTest01Var07SecondaryActivity
+ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:19:19-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:20:13-24:29
+category#android.intent.category.DEFAULT
+ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:23:27-73
+service#practicaltest01var07.eim.systems.cs.pub.ro.practicaltest01var07.PracticalTest01Var07Service
+ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:26:9-29:40
+	android:enabled
+		ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:28:13-35
+	android:exported
+		ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml:27:13-56
+uses-sdk
+INJECTED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml
+INJECTED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/4af1e2937b15f4b645eeb093ba214a93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/4af1e2937b15f4b645eeb093ba214a93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/ab3930b046f6a6be986b4fb390117a23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/ab3930b046f6a6be986b4fb390117a23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/flor/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7bd0a195958195273502dbd4da192b75/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/flor/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7bd0a195958195273502dbd4da192b75/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/9c583f71d9dd37e8c8c731f561e2a406/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/9c583f71d9dd37e8c8c731f561e2a406/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/cf2696d8f8f596aac89f324b506a4470/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/cf2696d8f8f596aac89f324b506a4470/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/de84e7c66af8417e53e4a3ba85ec729b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/de84e7c66af8417e53e4a3ba85ec729b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/bbce4fc7cdb09895bc8a9d5a674cabd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/bbce4fc7cdb09895bc8a9d5a674cabd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/7528f2a232b119436b99d5f34237da79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/7528f2a232b119436b99d5f34237da79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/bb03921735a6374911c5bce237c5dc86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/bb03921735a6374911c5bce237c5dc86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/48a3d27d8d1d37af6ea9783c41e30705/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/48a3d27d8d1d37af6ea9783c41e30705/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/2b91f1eef6928401d6cfa6ac1be1e0c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/2b91f1eef6928401d6cfa6ac1be1e0c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/e104d31d066820de4f2f080f260612fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/e104d31d066820de4f2f080f260612fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/19b3dfa47f355643981a916af1f4f9fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/19b3dfa47f355643981a916af1f4f9fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e738a2e72bc95ab585b1b355d459c0dd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e738a2e72bc95ab585b1b355d459c0dd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d0c5f132cd201136efd07fec687b2e1d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d0c5f132cd201136efd07fec687b2e1d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c2a4bfecf075872fa1e11db4b8de67a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c2a4bfecf075872fa1e11db4b8de67a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5ac0f0fa14d532e48df754f13c3257fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/flor/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5ac0f0fa14d532e48df754f13c3257fe/AndroidManifest.xml:20:5-44
+INJECTED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml
+INJECTED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml
+		ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml
+		INJECTED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml
+		ADDED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml
+		INJECTED from /home/flor/eim/PracticalTest01Var07/app/src/main/AndroidManifest.xml
